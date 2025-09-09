@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "Hamming coder "      # Project title
-  author:       "Y Sowmya"      # Your name
+  author:       "GOPI"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "design and implementation of hamming code"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
